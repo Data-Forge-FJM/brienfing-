@@ -1,4 +1,6 @@
-# brienfing-
+# brienfing- Requerimientos del proyecto
+
+## Sesión 1 — 24 de abril de 2026
 Hola, soy **Felipe**, gerente de una empresa del sector tecnológico dedicada a la venta de celulares y servicio técnico de reparaciones. Mucho gusto trabajar con ustedes en este proyecto.
 
 ## Briefing inicial del proyecto
